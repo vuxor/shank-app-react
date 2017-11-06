@@ -5,6 +5,7 @@ export class Footer extends React.Component {
     return (
      <footer>
         <span>© Sva prava prepuštena</span>
-      </footer>);
+      </footer>
+    );
   }
 }
