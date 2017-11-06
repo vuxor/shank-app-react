@@ -1,6 +1,7 @@
 import React from 'react';
 import {Header} from './Header';
 import {Footer} from './Footer';
+import {Table} from './Table';
 
 export default class App extends React.Component {
   render() {
@@ -8,7 +9,8 @@ export default class App extends React.Component {
       
      <div>
         <Header />
-        <h1>Zdravo React</h1>
+        <h1>Shank App</h1>
+        <Table />
         <Footer />
       </div>
     
