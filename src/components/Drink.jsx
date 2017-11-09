@@ -5,7 +5,7 @@ export class Drink extends React.Component{
 		return(
 			<div>
 				<p>
-					<img src={this.props.slika} alt={this.props.naziv}/>
+					<img src={this.props.slika}/>
 					<span>{this.props.naziv}</span>
 					<span>{this.props.cena}</span>
 				</p>
