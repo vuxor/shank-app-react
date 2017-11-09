@@ -5,9 +5,9 @@ export class Drink extends React.Component{
 		return(
 			<div>
 				<p>
-					<img />
-					<span>pivo</span>
-					<span>150</span>
+					<img src={this.props.slika}/>
+					<span>{this.props.naziv}</span>
+					<span>{this.props.cena}</span>
 				</p>
 			</div>
 
