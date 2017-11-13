@@ -7,6 +7,9 @@ export class Table extends React.Component {
     return (
      <div>
      	<Element id="table-1"
+            marginBottom="3%"
+            marginTop="3%"
+            marginLeft="45%"
      		fontSize="23"
      		fontSizeOnHover="27"
      		width="100px"
