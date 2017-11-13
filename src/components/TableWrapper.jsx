@@ -4,8 +4,7 @@ import {Table} from './Table';
 
 
 export class TableWrapper extends React.Component {
-    
-    
+ 
      render() {
    return (
        <Element className="TableWrapper"
@@ -24,25 +23,5 @@ export class TableWrapper extends React.Component {
    
         )
           }
-    
-    
-    
-    
-    
+
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
