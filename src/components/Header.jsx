@@ -5,7 +5,7 @@ export class Header extends React.Component {
   render() {
     return (
      <div>
-        <h3>Škola koda</h3>
+        <h3>Shank App</h3>
       </div>
     );
   }

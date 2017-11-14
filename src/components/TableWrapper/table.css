@@ -1,0 +1,16 @@
+.table-wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.table {
+  background: brown;
+  cursor: pointer;
+  font-size: 100px;
+  height: 200px;
+  margin-bottom: 40px;
+  margin-right: 40px;
+  text-align: center;
+  width: 200px;
+}
