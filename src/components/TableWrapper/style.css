@@ -1,0 +1,12 @@
+.table-wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+
+.table {
+    width: 200px;
+    height: 200px;
+    background: brown;
+    font-size: 66px;
+    text-align: center;
+}

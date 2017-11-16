@@ -1,0 +1,12 @@
+.drink-menu {
+    display: none;
+}
+
+.drink {
+    width: 180px;
+    display: inline-block;
+}
+
+img {
+    max-width: 100%;
+}
