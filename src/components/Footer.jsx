@@ -3,7 +3,7 @@ import React from 'react';
 export class Footer extends React.Component {
   render() {
     return (
-     <footer>
+      <footer>
         <span>© Sva prava prepuštena</span>
       </footer>
     );
